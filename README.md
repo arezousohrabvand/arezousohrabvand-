@@ -1,4 +1,4 @@
-# Hi, I'm Arezoo Sohrabvand 👋
+# Hi, I'm Arezou Sohrabvand 👋
 
 ## Full Stack Software Engineer | AI Automation Engineer
 
